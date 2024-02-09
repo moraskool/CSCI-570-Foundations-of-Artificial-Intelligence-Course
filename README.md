@@ -1,3 +1,4 @@
 # CSCI 570 Foundations of Artificial Intelligence Course
-I took this is Fall 2020, and it was taught by Prof. Wei Min Shien. 
+A repository for some of the work I did for CSCI 570 Fall 2020, taught by Prof. Wei Min Shien. 
+
  
